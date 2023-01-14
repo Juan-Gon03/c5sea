@@ -27,8 +27,7 @@ export default function Home() {
               priority
             />
           </div>
-          <p><i>Safe sex is great sex, better wear a latex
-'Cause you don't want that late text, that "I think I'm late" text</i></p>
+          <p><i>Safe sex is great sex, better wear a latex Cause you don't want that late text, that "I think I'm late" text</i></p>
         </div>
       </main>
     </>
