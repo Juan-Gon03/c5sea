@@ -17,8 +17,18 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.center}>
           <h1>Sex Ed & Reproductive Health</h1>
-          <br />
           <p>Website still under construction</p>
+            <div className={styles.center}>
+            <Image
+              src="/images.jpg"
+              alt="picture"
+              width={500}
+              height={250}
+              priority
+            />
+          </div>
+          <p><i>Safe sex is great sex, better wear a latex
+'Cause you don't want that late text, that "I think I'm late" text</i></p>
         </div>
       </main>
     </>
