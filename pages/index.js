@@ -27,7 +27,6 @@ export default function Home() {
               priority
             />
           </div>
-          <p><i>Safe sex is great sex, better wear a latex Cause you dont want that late text, that I think Im late text</i></p>
         </div>
       </main>
     </>
